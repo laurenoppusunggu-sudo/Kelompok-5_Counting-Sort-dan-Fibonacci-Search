@@ -1,0 +1,21 @@
+Ukuran	Kondisi	Counting_Time(ms)	Bubble_Time(ms)
+100	Acak	0.021	0.236
+100	Terurut Naik	0.032	0.003
+100	Terurut Turun	0.03	0.268
+100	Banyak Duplikat	0.014	0.196
+500	Acak	0.104	5.484
+500	Terurut Naik	0.097	0.009
+500	Terurut Turun	0.097	6.714
+500	Banyak Duplikat	0.063	4.682
+1000	Acak	0.213	23.771
+1000	Terurut Naik	0.199	0.019
+1000	Terurut Turun	0.194	27.168
+1000	Banyak Duplikat	0.133	29.407
+5000	Acak	1.086	0
+5000	Terurut Naik	1.142	0
+5000	Terurut Turun	1.14	0
+5000	Banyak Duplikat	0.725	0
+10000	Acak	2.24	0
+10000	Terurut Naik	2.288	0
+10000	Terurut Turun	2.231	0
+10000	Banyak Duplikat	1.434	0

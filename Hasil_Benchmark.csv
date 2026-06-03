@@ -1,0 +1,21 @@
+Ukuran,Kondisi,CountingTime_ms,BubbleTime_ms
+100,Acak,0.06,0.211
+100,Terurut Naik,0.021,0.002
+100,Terurut Turun,0.021,0.268
+100,Banyak Duplikat,0.014,0.189
+500,Acak,0.106,5.464
+500,Terurut Naik,0.098,0.009
+500,Terurut Turun,0.099,7.103
+500,Banyak Duplikat,0.064,7.113
+1000,Acak,0.37,22.965
+1000,Terurut Naik,0.194,0.019
+1000,Terurut Turun,0.194,27.194
+1000,Banyak Duplikat,0.125,18.791
+5000,Acak,0.96,0
+5000,Terurut Naik,1.013,0
+5000,Terurut Turun,1.009,0
+5000,Banyak Duplikat,0.644,0
+10000,Acak,1.928,0
+10000,Terurut Naik,1.82,0
+10000,Terurut Turun,1.599,0
+10000,Banyak Duplikat,1.033,0
